@@ -4,6 +4,7 @@ Original Project can be found at [Next.js Ecommerce](https://github.com/vercel/c
 Credits for the design and type of the architecture goes to mantainers of this projects.
 
 ### Deployed at <a href="https://ecommerce-next-shopify.vercel.app" target="_blank">ecommerce next shopify</a>
+
 ## Getting Started
 
 In the file called:
